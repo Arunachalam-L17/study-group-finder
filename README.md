@@ -1,1 +1,1 @@
-# study-group-finder
+Study Group Finder is a web application that helps students connect with peers in the same courses to form effective study groups. Users can create profiles, list their enrolled courses, discover others taking the same subjects, and collaborate via built-in communication and productivity tools. The system promotes academic networking, improves study efficiency, and makes group work coordination seamless. 
